@@ -1,4 +1,4 @@
-import IconSedans from "../assets/icon-sedans.svg"
+import IconSedans from "../icon-sedans.svg"
 
 export default function Sedans() {
     return (

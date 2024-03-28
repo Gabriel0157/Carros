@@ -1,4 +1,4 @@
-import IconSuvs from "./assets/icon-suvs.svg"
+import IconSuvs from "../icon-luxury.svg"
 
 export default function Sedans() {
     return (
