@@ -6,7 +6,7 @@ export default function App() {
   return (
     <main>
       <section>
-        <div>
+        <div className="bg-orange">
           <img src={IconSedans} alt="icone dos carros sedans" />
           <h2>Sedans</h2>
           <p>Escolha um sedan pelo seu preço acessível e excelente economia de combustível. Ideal para dirigir na cidade ou na sua próxima viagem</p>
